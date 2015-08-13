@@ -1,7 +1,7 @@
 iShareGIS SiteReport Plugin
 ==========================
 
-The SiteReport plugin for iShareGIS allows a user to generate a site report pdf of the current map view. This includes a map and the attribute information of all visible layers within the map window.
+The SiteReport plugin for iShareGIS allows a user to generate a site report of the current map view. This includes a map and the attribute information of all visible layers within the map window that is then suitable for printing.
 
 Installation
 ------------
