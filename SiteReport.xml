@@ -1,0 +1,5 @@
+<Plugin>
+	<Name>goFilter</Name>
+	<Description>Activate the Go Filter</Description>
+	<Category>standard</Category>
+</Plugin>

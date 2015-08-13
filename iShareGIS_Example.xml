@@ -1,0 +1,12 @@
+<PluginView>
+	<Plugin>LayerPanel</Plugin>
+	<Plugin>Edit</Plugin>
+	<Plugin>Find</Plugin>
+	<Plugin>Output</Plugin>
+	<Plugin>Layers</Plugin>
+	<Plugin>BaseMap</Plugin>
+	<Plugin>Profiles</Plugin>
+	<Plugin>Select</Plugin>
+	<Plugin>View</Plugin>
+	<Plugin>SiteReport</Plugin>
+</PluginView>
