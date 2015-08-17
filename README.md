@@ -17,7 +17,7 @@ The plugin requires [iShareGIS](http://astuntechnology.com/ishare/modules/ishare
 Support
 -------
 
-You can get support via the [Astun Technology Help Desk](http://support.astuntechnology.com/).
+Further information is available from https://astuntech.atlassian.net/wiki/display/ISHAREHELP/Enable+iShare+GIS+Site+Report+Plugin
 
 Thanks
 ------
