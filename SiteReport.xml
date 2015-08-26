@@ -1,5 +1,5 @@
 <Plugin>
-	<Name>goFilter</Name>
-	<Description>Activate the Go Filter</Description>
+	<Name>SiteReport</Name>
+	<Description>Activate the Site Report</Description>
 	<Category>standard</Category>
 </Plugin>
