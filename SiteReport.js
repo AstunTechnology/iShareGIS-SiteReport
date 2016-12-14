@@ -68,7 +68,8 @@ Astun.JS.Plugins.installDialog('siteReportOutput', function($map, openlayers) {
 		'onOpen': function($box, $inner) {
 			$wrapper.clearContent();
 		
-			var imageUrl = openlayers.wrapper.getStaticMapImageUrl();
+			// add a random parameter to the request to ensure we aren't getting a cached image
+			var imageUrl = openlayers.wrapper.getStaticMapImageUrl() + '&_sitereport=' + parseInt(Math.random() * 100000000, 10);
 			var $mapContainer = jQuery('<div>')
 				.attr('class', 'sitereport-mapcontainer');
 			jQuery('<img>')
